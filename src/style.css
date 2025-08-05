@@ -74,3 +74,6 @@
     @apply bg-background text-foreground;
   }
 }
+.panel {
+        @apply relative rounded-md bg-white p-5 shadow;
+    }
